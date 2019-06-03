@@ -1,0 +1,21 @@
+{
+  "name": "polymer2-storybook",
+  "version": "1.0.0",
+  "description": "POC to use Polymer 2 web components in a Storybook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook"
+  },
+  "keywords": [],
+  "author": "Daniel Vivar",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@polymer/polymer": "^2.7.0",
+    "@storybook/polymer": "^5.0.11",
+    "babel-loader": "^8.0.6",
+    "lit-html": "^1.1.0",
+    "polymer-webpack-loader": "^2.0.3"
+  }
+}
