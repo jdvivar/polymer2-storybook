@@ -15,6 +15,7 @@
     "@polymer/polymer": "^2.7.0",
     "@storybook/polymer": "^5.0.11",
     "babel-loader": "^8.0.6",
+    "lerna": "^3.14.1",
     "lit-html": "^1.1.0",
     "polymer-webpack-loader": "^2.0.3"
   }
