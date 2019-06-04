@@ -1,7 +1,8 @@
 {
-  "name": "custom-element",
-  "version": "1.0.0",
+  "name": "@polymer2-storybook/custom-element",
+  "version": "1.0.1",
   "description": "",
+  "private": false,
   "main": "custom-element.stories.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
