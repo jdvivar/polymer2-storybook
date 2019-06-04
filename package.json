@@ -8,7 +8,7 @@
     "storybook": "start-storybook"
   },
   "keywords": [],
-  "author": "Daniel Vivar",
+  "author": "Daniel Vivar <mail@danielvivar.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.5",

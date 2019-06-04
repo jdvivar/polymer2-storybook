@@ -2,13 +2,17 @@
   "name": "@polymer2-storybook/custom-element",
   "version": "1.0.2",
   "description": "",
-  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdvivar/polymer2-storybook.git",
+    "directory": "packages/custom-element"
+  },
   "main": "custom-element.stories.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel Vivar <mail@danielvivar.com>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
